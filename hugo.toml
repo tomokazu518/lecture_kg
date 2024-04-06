@@ -1,0 +1,8 @@
+baseURL = 'https://tomokazu518.github.io/lecture_kg/'
+languageCode = 'en-us'
+title = '野村友和　授業ウェブサイト'
+publishDir = "docs"
+theme = "hugo-theme-learn"
+[params]
+  disableLandingPageButton = true
+  disableSearch = false
