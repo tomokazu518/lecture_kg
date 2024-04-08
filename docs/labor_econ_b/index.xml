@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>労働経済学B on 野村友和　授業ウェブサイト</title>
-    <link>http://localhost:1313/lecture_kg/labor_econ_b/</link>
+    <link>https://tomokazu518.github.io/lecture_kg/labor_econ_b/</link>
     <description>Recent content in 労働経済学B on 野村友和　授業ウェブサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/lecture_kg/labor_econ_b/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomokazu518.github.io/lecture_kg/labor_econ_b/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
