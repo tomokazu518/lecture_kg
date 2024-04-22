@@ -20,3 +20,10 @@ title = '労働経済学B'
 |12|6.26|  |  |  |
 |13|7.3|  |  |  |
 |14|7.10|  |  |  |
+
+## 発展課題
+
+提出の必要はないので時間のあるときに取り組んでみてください
+
+- [将来人口の推計](https://kwanseio365-my.sharepoint.com/:u:/g/personal/ikj20657_nuc_kwansei_ac_jp/EfHY_jM2BaJNhyPsYcr3H0kBZXwWdHTkeInQHC2mWTPCoA?e=fGgwqK) 
+(発展課題)
