@@ -11,7 +11,7 @@ chapter = false
 |-|-|-|-|-|-|
 |1|4.10|データで見る日本の労働市場|[Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EVhmRp_lBhdPmo2BiT6IhxgBC8C0ycxK9LQWLGEajIIXsQ?e=YMgaRN)|[PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EUnvEpiZjixLtbXb_1rRTR8B6rIY5-FzOpMf3HZpLvbsCw?e=m9opYT)|労働経済学B　第3回と共通の内容です
 |2|4.17| 労働市場における需要と供給 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/ES2j43msB_1Fm26TdhH5gp4BcYKqjOCCLPzAqY5EF4el5A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S1uV22) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQ59k8s3s2JBsxJm-hRu0UwBKvlZxlcjaO7TRcPhSwd_Rw?e=KqIiNf) (第2〜4回までのスライド) |
-|3|4.24|  |  |  |
+|3|4.24| 労働市場の比較静学 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EY86ldo0cFBKrmmIIsNfyhYBTjFlsOJDIcyFjpO3NxlpEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zH8dxu) | 上のスライドを引き続き使います |
 |4|5.1|  |  |  |
 |5|5.8|  |  |  |
 |6|5.15|  |  |  |
