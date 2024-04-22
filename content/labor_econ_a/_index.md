@@ -24,7 +24,13 @@ chapter = false
 |13|7.3|  |  |  |
 |14|7.10|  |  |  |
 
-## 課題
+## 提出課題 (成績評価対象)
+
+課題はMicrosoft Formsで提出してください。提出後も締切時間までは解答を変更することができます。変更できない場合はこちらの設定ミスの場合もあるので，Lineのオープンチャットで知らせてください。
+
+1. [労働市場の練習問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ee8RB5p4qlNKri9_sQkDt5ABT76EXRRbcris1RYO3TT2Sg?e=Lvq1Nb)･･･[Microsoft Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UMzNQUzZaUkk2NkxWNjNBNFlQVVhLUTRRNi4u) (締切：5月7日23時)。
+
+## 課題(提出不要)
 
 - [将来人口の推計](https://kwanseio365-my.sharepoint.com/:u:/g/personal/ikj20657_nuc_kwansei_ac_jp/EfHY_jM2BaJNhyPsYcr3H0kBZXwWdHTkeInQHC2mWTPCoA?e=fGgwqK) 
 (発展課題)→提出の必要はないので時間のあるときに取り組んでみてください
