@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomokazu518.github.io/lecture_kg/</loc>
+    <loc>http://localhost:1313/lecture_kg/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/categories/</loc>
+    <loc>http://localhost:1313/lecture_kg/categories/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/tags/</loc>
+    <loc>http://localhost:1313/lecture_kg/tags/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_a/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_a/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_b/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_b/</loc>
   </url>
 </urlset>
