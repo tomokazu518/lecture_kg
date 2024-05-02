@@ -38,4 +38,4 @@ title = '労働経済学B'
 提出の必要はないので時間のあるときに取り組んでみてください
 
 - [将来人口の推計](https://kwanseio365-my.sharepoint.com/:u:/g/personal/ikj20657_nuc_kwansei_ac_jp/EfHY_jM2BaJNhyPsYcr3H0kBZXwWdHTkeInQHC2mWTPCoA?e=fGgwqK) 
-(発展課題)
+(発展課題)･･･(5.1更新：いろいろ数値が間違っていたので正しいものに差し替えました。また，作業結果をアップロードしましたので，自分でやってみた人は確認してください)
