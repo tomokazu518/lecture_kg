@@ -13,10 +13,10 @@ chapter = false
 |2|4.17| 労働市場における需要と供給 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/ES2j43msB_1Fm26TdhH5gp4BcYKqjOCCLPzAqY5EF4el5A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S1uV22) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQ59k8s3s2JBsxJm-hRu0UwBKvlZxlcjaO7TRcPhSwd_Rw?e=KqIiNf) (第2〜4回までのスライド) |
 |3|4.24| 労働市場の比較静学 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EY86ldo0cFBKrmmIIsNfyhYBTjFlsOJDIcyFjpO3NxlpEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zH8dxu) | 上のスライドを引き続き使います |
 |4|5.1| 労働市場分析の応用例 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/ETT0U6BJ4KxIjtwg6UZbYMcBKFuogffV-8pQzM5YW0NnDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hIaaU1) | 上のスライドを引き続き使います |
-|5|5.8|  |  |  |
-|6|5.15|  |  |  |
-|7|5.22|  |  |  |
-|8|5.29|  |  |  |
+|5|5.8| 労働供給モデル | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/ESp1mFrJPxZJrIdHDVx35mkBYNdSEK9ESphsW9Ak6Fsvyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n714ft) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ec2l0D6Y8GVNo8sxUbmZpRwB4C6iowxd0zGE9eRPA50ANg?e=q2cnAM) |  |
+|6|5.15| 労働供給の比較静学 |  | 上のスライドを引き続き使います |
+|7|5.22| 最低賃金，社会保障制度と労働供給 |  | 上のスライドを引き続き使います |
+|8|5.29| 家計内生産モデル |  |  |
 |9|6.5|  |  |  |
 |10|6.12|  |  |  |
 |11|6.19|  |  |  |
@@ -28,7 +28,7 @@ chapter = false
 
 課題はMicrosoft Formsで提出してください。
 
-1. [労働市場の練習問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ee8RB5p4qlNKri9_sQkDt5ABT76EXRRbcris1RYO3TT2Sg?e=Lvq1Nb)･･･[Microsoft Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UMzNQUzZaUkk2NkxWNjNBNFlQVVhLUTRRNi4u) (締切：5月7日23時)。
+1. [労働市場の練習問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ee8RB5p4qlNKri9_sQkDt5ABT76EXRRbcris1RYO3TT2Sg?e=Lvq1Nb)･･･[Microsoft Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UMzNQUzZaUkk2NkxWNjNBNFlQVVhLUTRRNi4u) (締切：5月7日23時)。[解答](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EV_9HwXWCLJPu_7FU9a7hr4B8bjlRex40Tt4m39nFmhosQ?e=c4Asgv)(5.7up)
 
 ## 課題提出についての注意
 
