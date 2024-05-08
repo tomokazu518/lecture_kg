@@ -48,7 +48,8 @@ title = '労働経済学B'
 提出の必要はないので時間のあるときに取り組んでみてください
 
 - [将来人口の推計](https://kwanseio365-my.sharepoint.com/:u:/g/personal/ikj20657_nuc_kwansei_ac_jp/EfHY_jM2BaJNhyPsYcr3H0kBZXwWdHTkeInQHC2mWTPCoA?e=fGgwqK) 
-(発展課題)･･･(5.1更新：いろいろ数値が間違っていたので正しいものに差し替えました。また，作業結果をアップロードしましたので，自分でやってみた人は確認してください)
+(5.1更新：いろいろ数値が間違っていたので正しいものに差し替えました。また，作業結果をアップロードしましたので，自分でやってみた人は確認してください)
+- [大学教育の収益率](https://kwanseio365-my.sharepoint.com/:u:/g/personal/ikj20657_nuc_kwansei_ac_jp/ET-2XlxLb-NPvWxV9ZywIz4BtUBuWIOxpoq4Uz3miziMVA?e=mIwNoN) 
 
 ## 課題の講評など
 
