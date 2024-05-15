@@ -24,7 +24,7 @@ title = '労働経済学B'
 
 ## 第5回 (大学教育の収益率)の追加課題
 
-平均点が低かったので，追加で課題を出します。これも10点満点で，通常の課題と同じ扱いにします。締切は5月21日23時です。
+問題にも少し不明確な部分があり答えにくいところもあったと思いますが，平均点が低かったので，追加で課題を出します。これも10点満点で，通常の課題と同じ扱いにします。締切は5月21日23時です。
 
 - [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQ-BcagP7J1AoZK4AY6EdRcB2EuC0liZWXTdRfdCKwQLLg?e=46Z8AI)
 - [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UQkcyWVJCOEIwQ1VUVDVMSzRBQjkxUTg0TC4u)
