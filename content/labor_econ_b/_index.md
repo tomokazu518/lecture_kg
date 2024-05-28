@@ -21,16 +21,6 @@ title = '労働経済学B'
 |13|7.3|  |  |  |
 |14|7.10|  |  |  |
 
-
-## 第5回 (大学教育の収益率)の追加課題
-
-問題にも少し不明確な部分があり答えにくいところもあったと思いますが，平均点が低かったので，追加で課題を出します。これも10点満点で，通常の課題と同じ扱いにします。締切は5月21日23時です。
-
-- [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQ-BcagP7J1AoZK4AY6EdRcB2EuC0liZWXTdRfdCKwQLLg?e=46Z8AI)
-- [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UQkcyWVJCOEIwQ1VUVDVMSzRBQjkxUTg0TC4u)
-
-なお，第5回の最初の課題についての解説は下にあります。
-
 ## 第8回(5.29)の授業について
 
 - [質問投稿用フォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UNDcxWVQzOEowMzFOWTFIQlgwNU5LTk1ZSS4u)(締切：5.27(月)17:00)
@@ -146,3 +136,12 @@ title = '労働経済学B'
 - 保育所の整備による定員増加･･･子育てによるキャリアの中断を短くすることができるため，高い賃金で働くことができる期間が長くなり，大学教育の便益を増加させます
 
 7番目の問題については，正誤を明確に判断できないものがあったので採点していません(配点をゼロにしてほかの問題に振り分けました)。
+
+## 第5回 (大学教育の収益率)の追加課題
+
+- [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQ-BcagP7J1AoZK4AY6EdRcB2EuC0liZWXTdRfdCKwQLLg?e=46Z8AI)
+- [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UQkcyWVJCOEIwQ1VUVDVMSzRBQjkxUTg0TC4u)
+
+教育の費用と便益の求め方だけ解説しておきます。まず，高校卒労働者の賃金プロファイルは直線で，18歳のときの年収が240万円，60歳の時の年収が620万円なので，年収は1年に10万円ずつ上昇することがわかります (42年間で420万円上昇)。したがって，高校卒労働者の22歳のときの年収は240万円です。
+
+大学教育の直接費用は，1年あたり250万円なので4年間では1000万円です。間接費用は，18〜22歳の4年間における高校卒労働者の賃金収入なので，(200万円＋240万円)×4年/2＝880万円です。台形の面積が平行な2辺の合計×高さ/2で求められることを思い出してください。便益は22〜60歳における高校卒と大学卒の賃金格差の総額なので，(60万円＋250万円)×38年/2＝5890万円です。
