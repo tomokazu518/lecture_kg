@@ -11,10 +11,10 @@ title = '労働経済学B'
 |3|4.24| データで見る日本の労働市場|[Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EVhmRp_lBhdPmo2BiT6IhxgBC8C0ycxK9LQWLGEajIIXsQ?e=YMgaRN) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EUnvEpiZjixLtbXb_1rRTR8B6rIY5-FzOpMf3HZpLvbsCw?e=m9opYT) | [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UQlkxNzhMSEhBSDE1TVNTWjcyNEZFOThTRi4u) | 課題の合格点は6点です。<br>授業は労働経済学A 第1回と共通の内容です。
 |4|5.1| 労働市場の機能 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/ESm_tKVOxHVIlxI_QKkn9OsBLLR07QRwXGYtrI627Dx2eA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c8Hh9D) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EX74v3_HlelFrcU7ZjYnHvkBOWWXwl8I3lPAazIncs5-Zw?e=cne2mD) | [Forms](https://forms.office.com/r/gpeuWzK8yK)|課題の合格点は6点です。
 |5|5.8| 大学教育の収益率 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ees8kZ_cWgJIltqV4cuThnEBAytoRm2LCUKXNlNWfZgGZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=H1Qsfb) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/ERGZE5ybW2FKrcDs7s2Cl0oBSvVO9OOKKm3NT6HeQ-ScZQ?e=bC1mar) | [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UNFJGRUwyNDNLQ0k1SzFROU9aNEZRUVdBNS4u) | 課題の合格点は6点です。
-|6|5.15| 人的資本理論 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EbdRrKiVLdxLjdWwNMiNFO0BVf5AN7TPN-ds21WzamedXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y401bK) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EcA5Qk2KUYtLsRvs7jvSiH8BcVuzrypOYTSW1-L_4862Mw?e=EXgGMq) | [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/ES0eG9FgYM1Kr6dv5RUJgZYBQNFqWMoWwjru0JTMIHC7xQ?e=25wHT1)・[Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UOVZWN0Q0Q0s5TEFURUIyWjVPSkVIOFlBMi4u) | 20点満点ですが，成績評価の際には10点満点（得点を2で割り，端数は切り上げます）です。合格点は20点満点で12点です。
+|6|5.15| 人的資本理論 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EbdRrKiVLdxLjdWwNMiNFO0BVf5AN7TPN-ds21WzamedXQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y401bK) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EcA5Qk2KUYtLsRvs7jvSiH8BcVuzrypOYTSW1-L_4862Mw?e=EXgGMq) | [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/ES0eG9FgYM1Kr6dv5RUJgZYBQNFqWMoWwjru0JTMIHC7xQ?e=25wHT1)・[Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UOVZWN0Q0Q0s5TEFURUIyWjVPSkVIOFlBMi4u) | 課題は20点満点ですが，成績評価の際には10点満点（得点を2で割り，端数は切り上げます）です。合格点は20点満点で12点です。
 |7|5.22| 日本的雇用慣行と人事 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQGy_D1RgbVEptAXB1WJgfUBqubO3wqUAfCawk7x_CHA9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mnJ9fx) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EXOl82P4cFtHj23d2WtMLYYB0luFdelQMeeJHdLN_dNYMA?e=eWgm1h) | [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UM0haMjNRSEszUzY0UzhQV1haRERQU0o2Ti4u) | 合格点は6点です。
 |8|5.29| 前半の復習と質問受付 | [Zoom](https://kwansei-gakuin.zoom.us/j/84885883147?pwd=xxXsJBb2Uw63j4aycByfUOjtVgbed6.1) |  |
-|9|6.5|  |  |  |
+|9|6.5| 技術進歩と労働市場 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/ETJkzL2PRvpLhHwEzsNpE1wBp0VndDcK7AsnyivKWGw-uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SzCwLZ) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ed5UeARNXyhFv97ZMp3up2YBgIWyDO7Me_SIjB9o4vJ-uQ?e=Tw6MFR) | [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EXPK1J2cfh1Dn6w8lcpIlncBrZ4c1e0i_OGwpcc8ZQ8ZaA?e=uEYNzW)・[Forms](https://forms.office.com/r/3K7PgcE4VH) | 課題は20点満点ですが，成績評価の際には10点満点（得点を2で割り，端数は切り上げます）です。合格点は20点満点で12点です。
 |10|6.12|  |  |  |
 |11|6.19|  |  |  |
 |12|6.26|  |  |  |
@@ -23,15 +23,8 @@ title = '労働経済学B'
 
 ## 第8回(5.29)の授業について
 
-- [質問投稿用フォーム](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UNDcxWVQzOEowMzFOWTFIQlgwNU5LTk1ZSS4u)(締切：5.27(月)17:00)
-
-第8回の授業はZoomでリアルタイムで実施します。内容は，おもに質問の受付です。
-
-聞きたいことがある方は，できるだけ事前に質問を投稿してください 。もちろん，時間があれば当日にも質問を受け付けます。授業内容と直接関係ないことでもOkです。
-
-ただし，受講者が1,500人近くいるので，すべての質問には答えられないかもしれません。
-
-なお，いまのところZoomの録画配信は予定していません。
+- [「認知バイアスと行動経済学」スライド](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EXPK1J2cfh1Dn6w8lcpIlncBrZ4c1e0i_OGwpcc8ZQ8ZaA?e=CsKgbg)
+- [「経済学における実証研究」スライド](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EfXFlGGtMdVNpC86gKB9O8gBo98HUnWtz3pEXUDTvT_edQ?e=eY5tVO)
 
 ## 提出課題について
 
