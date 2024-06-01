@@ -130,7 +130,7 @@ title = '労働経済学B'
 
 7番目の問題については，正誤を明確に判断できないものがあったので採点していません(配点をゼロにしてほかの問題に振り分けました)。
 
-## 第5回 (大学教育の収益率)の追加課題
+### 第5回 (大学教育の収益率)の追加課題
 
 - [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQ-BcagP7J1AoZK4AY6EdRcB2EuC0liZWXTdRfdCKwQLLg?e=46Z8AI)
 - [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UQkcyWVJCOEIwQ1VUVDVMSzRBQjkxUTg0TC4u)
