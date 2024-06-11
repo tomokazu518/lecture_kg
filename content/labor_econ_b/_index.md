@@ -15,11 +15,15 @@ title = '労働経済学B'
 |7|5.22| 日本的雇用慣行と人事 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQGy_D1RgbVEptAXB1WJgfUBqubO3wqUAfCawk7x_CHA9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mnJ9fx) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EXOl82P4cFtHj23d2WtMLYYB0luFdelQMeeJHdLN_dNYMA?e=eWgm1h) | [Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UM0haMjNRSEszUzY0UzhQV1haRERQU0o2Ti4u) | 合格点は6点です。
 |8|5.29| 前半の復習と質問受付 | [Zoom](https://kwansei-gakuin.zoom.us/j/84885883147?pwd=xxXsJBb2Uw63j4aycByfUOjtVgbed6.1) |  |
 |9|6.5| 技術進歩と労働市場 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/ETJkzL2PRvpLhHwEzsNpE1wBp0VndDcK7AsnyivKWGw-uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=SzCwLZ) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ed5UeARNXyhFv97ZMp3up2YBgIWyDO7Me_SIjB9o4vJ-uQ?e=Tw6MFR) | [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EXPK1J2cfh1Dn6w8lcpIlncBrZ4c1e0i_OGwpcc8ZQ8ZaA?e=uEYNzW)・[Forms](https://forms.office.com/r/3K7PgcE4VH) | 課題は20点満点ですが，成績評価の際には10点満点（得点を2で割り，端数は切り上げます）です。合格点は20点満点で12点です。
-|10|6.12|  |  |  |
-|11|6.19|  |  |  |
-|12|6.26|  |  |  |
-|13|7.3|  |  |  |
-|14|7.10|  |  |  |
+|10|6.12| 職業とスキル | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EQp9h79OMrVOsyhDTPWM2MYBv0_jt7CZUiSO9qXCzWOZrg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Bqbpw3) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EcNJfj37gGxMkcfSo7Kan0wBl9OUaaS974PH1uUNTR68RA?e=Oy43w8) | [問題](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EVwKxdqx3E5LqrWeXQ6J_RkBNEotWNAiHpmvWT_-iHdrtw?e=n6wymn)・[Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=MATZn9TuPk6aWibNlNnIs8-fnj7YkK9MuZPkxpsrxg9UNk9GNEtaRUNJT01TMVpRQVo4RDQ0RjlTNC4u)
+|11|6.19| 税・社会保障と労働 |  |  |
+|12|6.26| 結婚，子育てとキャリア |  |  |
+|13|7.3| 長時間労働の是正と働き方改革 |  |  |
+|14|7.10| 労働者を保護するための法律 |  |  |
+
+## 授業計画の変更
+
+- シラバスの第9回と第10回，第11回と第12回の順序を入れ替えました。
 
 ## 第8回(5.29)の授業について
 
