@@ -1,3 +1,4 @@
+ignoreFiles = [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
 baseURL = 'https://tomokazu518.github.io/lecture_kg/'
 languageCode = 'en-us'
 title = '野村友和　授業ウェブサイト'
@@ -6,3 +7,7 @@ theme = "hugo-theme-learn"
 [params]
   disableLandingPageButton = true
   disableSearch = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
