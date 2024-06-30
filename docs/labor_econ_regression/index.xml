@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>回帰分析による教育の収益率の推定 on 野村友和　授業ウェブサイト</title>
-    <link>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/</link>
+    <link>http://localhost:1313/lecture_kg/labor_econ_regression/</link>
     <description>Recent content in 回帰分析による教育の収益率の推定 on 野村友和　授業ウェブサイト</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://tomokazu518.github.io/lecture_kg/labor_econ_regression/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/lecture_kg/labor_econ_regression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/doc/</link>
+      <link>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/doc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/doc/</guid>
+      <guid>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/doc/</guid>
       <description>&lt;!DOCTYPE html&gt; R: Vignettes and other documentation Vignettes and other documentation Vignettes from package &#39;renv&#39; renv::ci Using renv with continuous integration HTML source R code renv::docker Using renv with Docker HTML source R code renv::faq Frequently asked questions HTML source R code renv::package-install Installing packages HTML source R code renv::package-sources Package sources HTML source R code renv::packages Package development HTML source R code renv::packrat packrat vs. renv HTML source R code renv::profiles Project profiles HTML source R code renv::python Using Python with renv HTML source R code renv::renv Introduction to renv HTML source R code renv::rsconnect Using renv with Posit Connect HTML source R code </description>
     </item>
     <item>
       <title></title>
-      <link>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/html/00index/</link>
+      <link>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/html/00index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/html/00index/</guid>
+      <guid>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/html/00index/</guid>
       <description>&lt;!DOCTYPE html&gt; R: Project Environments Project Environments Documentation for package &amp;lsquo;renv&amp;rsquo; version 1.0.7 DESCRIPTION file. User guides, package vignettes and other documentation. Package NEWS. Help Pages renv-package Project-local Environments for R activate Activate or deactivate a project autoload Auto-load the active project checkout Checkout a repository clean Clean a project config User-level settings consent Consent to usage of renv deactivate Activate or deactivate a project dependencies Find R package dependencies in a project diagnostics Print a diagnostics report embed Capture and re-use dependencies within a &#39;.</description>
     </item>
     <item>
       <title></title>
-      <link>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/news/</link>
+      <link>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/news/</guid>
+      <guid>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/news/</guid>
       <description>renv 1.0.7 Fixed an issue where renv&amp;rsquo;s activate script failed to report version conflict errors when starting up. (#1874) renv 1.0.6 Fixed an issue where downloads could fail with curl &amp;gt;= 8.7.1. (#1869)&#xA;Fixed an issue where renv::snapshot() did not properly normalize package records generated from packages installed using the pak package, e.g. via pak::pkg_install(&amp;quot;cran::&amp;lt;package&amp;gt;&amp;quot;).&#xA;Fixed an issue where renv could incorrectly prompt the user to record a version of renv installed from GitHub in some cases.</description>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/doc/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/doc/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/html/00index/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/html/00index/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/news/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_regression/renv/library/linux-ubuntu-jammy/r-4.4/x86_64-pc-linux-gnu/renv/news/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/</loc>
+    <loc>http://localhost:1313/lecture_kg/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/categories/</loc>
+    <loc>http://localhost:1313/lecture_kg/categories/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/tags/</loc>
+    <loc>http://localhost:1313/lecture_kg/tags/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_a/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_a/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_b/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_b/</loc>
   </url><url>
-    <loc>https://tomokazu518.github.io/lecture_kg/labor_econ_regression/</loc>
+    <loc>http://localhost:1313/lecture_kg/labor_econ_regression/</loc>
   </url>
 </urlset>
