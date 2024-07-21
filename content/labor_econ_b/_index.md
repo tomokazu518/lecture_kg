@@ -21,6 +21,16 @@ title = '労働経済学B'
 |13|7.3| 長時間労働の是正と働き方改革 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EXL540VmRttHqNwIdDYLl78B28Ixe2GQGzYCY4cxzoZ3Ig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EC3ccz) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/EclyUdfyb3VJrXHaSMqJZF4BT4ghPL1o3SRJWoIr3fs9GQ?e=nFf27s) | [Forms](https://forms.office.com/r/uJ5hDx2Ue3) | 課題の合格点は6点です。
 |14|7.10| 採用・解雇にかかわる法 | [Stream](https://kwanseio365-my.sharepoint.com/:v:/g/personal/ikj20657_nuc_kwansei_ac_jp/EWuPjjAr6k9Kp3YmZkZIPtwBZQOXj19xrmWN4T_eXyM5gA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GbjcsJ) | [PDF](https://kwanseio365-my.sharepoint.com/:b:/g/personal/ikj20657_nuc_kwansei_ac_jp/Ef4kCQmT1WNBu2SkIqDtFtwBUgPnh9T9JU8AGhI9tzRcpQ?e=B4OZKG) | [Forms](https://forms.office.com/r/gRmQp9WJ8G) | 課題の合格点は6点です。
 
+
+## 課題の採点修正
+
+以下の課題については，採点を修正してあります。Microsoft Formsでは反映されませんので，成績の方を確認してください。修正によって点数が下がるということはありません。
+
+- 第5回･･･景気の悪化は大学教育の「費用を減少させる」(高校卒労働者の賃金が低下するため，大学に進学する機会費用が低下する)を正解としていましたが，「便益を増加させる」というのも間違いとは言えないので，正解にしました。
+- 第9回･･･(5)の解答が間違っていました。「需要」が正解です。正解していた人に2点プラスしました。「供給」を選んでいた人は1点のままにしてあります (点数が下がることはありません)。
+- 第10回･･･最後の「正しいものをすべて選べ。」の問題は，途中で誤字を修正したために，修正前 (「数滴」となっている状態)に答えた場合に不正解になってしまっていたので，点数を加算しました。
+- 第13回･･･4の「脳・心臓疾患や精神障害の労災請求件数は増加傾向にある」については，脳・心臓疾患と精神疾患で傾向が違うので，全員正解にしました。
+
 ## 授業計画の変更
 
 - シラバスの第9回と第10回，第11回と第12回の順序を入れ替えました。
